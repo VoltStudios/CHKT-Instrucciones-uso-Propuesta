@@ -23,6 +23,7 @@ Nuestra propuesta esta compuesta por:
 
 
 Preguntas Frecuentes
+
 1. ¿Cuales son las propuestas de valor de nuestra aplicacion?
 2. ¿Como se comunica la solucion al motor de riesgo?
 2. ¿Como se conecta la solucion con las bases de datos del Instituto (Big Data)
