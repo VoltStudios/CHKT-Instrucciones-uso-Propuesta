@@ -66,7 +66,7 @@ A. SI, tenemos reportes y graficas sobre su salud en el cliente del derechohabie
 16. ¿El sistempa permite conectarse y complementar los sistemas existentes del IMSS?
 a. La arquitectura de la solucion permite que en su momento se conecten y complementen sistemas existentes del IMSS, sin embargo por el momemento no contamos con informacion de otros que debamos integrar. 
 17. ¿Se administra eficientemente la capacidad de integracion con otros sistemas?
-a. El panel de adminsitracion permite aislar rapidamente las diversas interfacez tanto con motor de riesgo, bases de datos como con diversos clientes, tanto para dar mantemiento como en caso de alguna emergencia. 
+a. El panel de adminsitracion permite aislar rapidamente las diversas interfacez tanto con motor de riesgo, bases de datos como con diversos clientes, tanto para dar mantemiento como en caso de alguna emergencia. Adicionalmente, al ser un backend con api definida se pueden crear diversas aplicaciones con otras funcionalidades dentro del mismo dominio de datos.
 18. ¿Se tiene identificado el nivel de soporte tecnologico requerido?
 a. SI, El nivel de soporte tecnologico esperado dependera de las diversas politicas de infraestructura de la Direccion de Inovacion y Desarrollo Tecnologico del IMSS, sin embargo nuestra aplicacion esta diseñada para correr en una nube de terceros, una nube hibrida (hosted cloud) como servidores fijos, es recomendable en la nube ya que permitimos la rapida sustitucion y escalabilidad de instancias virtuales.
 19. ¿Cual es el plan de mantenimiento de servidores / nube?
