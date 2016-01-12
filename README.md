@@ -20,7 +20,7 @@ Propuesta #CHKTENLÍNEA de Volt Studios
 > 4. Prototipo de UI en iOS. Repositorio en ([Dar clic aqui](https://github.com/VoltStudios/chkt-ios.git))
 > 
 > 5. Guía de Usuario para el Proyecto Potencial Completo [Dar clic aqui](https://docs.google.com/presentation/d/1a1siGEb6Fi7Z3EmXYLWmPvw70YvGAGmeWLeaElCFSNY/edit?pref=2&pli=1)> 
-> 6. Plan de Trabajo Detallado [URL]
+> 6. Plan de Trabajo Detallado ([Dar clic aquí](https://docs.google.com/document/d/1SJ7vayncZ-gu2okQhGGLqu2TsGz_qrQNmXYJEfBEBzA/edit?pref=2&pli=1))
 > 
 > 7. Diagrama de GANTT del Plan de Trabajo ([Dar clic aquí para version interactiva](http://instagantt.com/shared/56948a876dc26e6034000016)) o (Dar clic aquí para PDF)
 > 
