@@ -24,7 +24,7 @@ Propuesta #CHKTENLÍNEA de Volt Studios
 > 
 > 7. Diagrama de GANTT del Plan de Trabajo ([Dar clic aquí para version interactiva](http://instagantt.com/shared/56948a876dc26e6034000016)) o (Dar clic aquí para PDF)
 > 
-> 8. Documento de Especificaciones de Sistema [LINK]
+> 8. Documento de Especificaciones de Sistema ([Da clic aqui](https://docs.google.com/document/d/19pmPyaUQG-RRgFtxquQ65ul2nB97kT6aoXOabTCt5wk/edit?pref=2&pli=1))
 > 
 > 9. Acuse y Declaración Anual 2014 ([Dar clic aquí](https://drive.google.com/file/d/0B3yPM7kdR0ckcFVYcVpmWi03S2c/view?pref=2&pli=1)) 
 
