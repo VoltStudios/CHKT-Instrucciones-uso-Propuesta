@@ -10,20 +10,19 @@ Propuesta #CHKTENLÍNEA de Volt Studios
 **Nuestra propuesta está compuesta por:**
 -----------------------------------------
 
-> 1. Video de 2 mins demostrando prototipo funcional (Web de Enfermera, Web de Admin, Web de Paciente y Móvil nativo para Paciente)
+> 1. Video de 2 mins demostrando prototipo funcional (Web de Enfermera, Web de Admin, Web de Paciente y Móvil nativo para Paciente) [Dar clic aqui.](https://www.youtube.com/watch?v=aH565Iw4LT8)
 > 
 > 2. Prototipo  con Front End (UX/UI) Web responsivo para Pacientes conectado a Backend Funcional en Phoenix. 
-> Repositorio en [X] y URL en [X] lista de usuarios para probar aquí [X]
+> Repositorio en ([Dar clic aquí](https://github.com/VoltStudios/chkt-online-web.git)) y URL en ([Dar clic aquí](http://chkt-en-linea.herokuapp.com)) lista de usuarios para probar aquí [X]
 > 
-> 3. Prototipo de Front End (UX/UI) en móvil simulado, URL para probar en [X]
+> 3. Prototipo de Front End (UX/UI)  simulado para los diversos usuarios. URL para probar Paciente ([Dar clic aquí](https://www.justinmind.com/usernote/tests/18753261/18761580/18761582/index.html)), Enfermera ([Dar clic aquí](https://www.justinmind.com/usernote/tests/18753261/18761555/18761557/index.html)),  y Administrador ([Dar clic aquí](https://www.justinmind.com/usernote/tests/18753261/18761590/18761592/index.html)).
 > 
-> 4. Prototipo de UI en iOS. Repositorio en [X]
+> 4. Prototipo de UI en iOS. Repositorio en ([Dar clic aqui](https://github.com/VoltStudios/chkt-ios.git))
 > 
-> 5. Guía de Usuario para el Proyecto Potencial Completo [LINK]
-> 
+> 5. Guía de Usuario para el Proyecto Potencial Completo [Dar clic aqui](https://docs.google.com/presentation/d/1a1siGEb6Fi7Z3EmXYLWmPvw70YvGAGmeWLeaElCFSNY/edit?pref=2&pli=1)> 
 > 6. Plan de Trabajo Detallado [URL]
 > 
-> 7. Diagrama de GANTT del Plan de Trabajo [URL]
+> 7. Diagrama de GANTT del Plan de Trabajo ([Dar clic aquí para version interactiva](http://instagantt.com/shared/56947d16235916da3300004d)) o (Dar clic aquí para PDF)
 > 
 > 8. Documento de Especificaciones de Sistema [LINK]
 > 
@@ -116,6 +115,4 @@ Propuesta #CHKTENLÍNEA de Volt Studios
  20. **¿Cuál es el plan de mantenimiento de servidores / nube?**
 
     Para mantenimiento, nuestra aplicación puede distribuirse a través de varias instancias y permite sustituir de manera "hot-swap" para evitar downtime durante la ventanas de mantienimiento. 
-
-
 
