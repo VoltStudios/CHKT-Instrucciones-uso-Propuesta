@@ -58,9 +58,16 @@ a. SI, La aplicacion en su cliente del derechohabiente permite dar seguimiento a
 12. ¿La aplicacion permite eventualmente comunicarse con su doctor y/o enfermera.
 a. SI, la aplicacion tiene un modulo de comunicacion entre el prestador de salud y el derechohabiente, para que bajo la Direccion de Prestaciones Medicas se pueda habilitar cuando sea requerido.
 13. ¿Las tecnologias utilizadas permiten la escalabilidad?
+a. SI, despues de una comparacion de las diversas tecnologias, se escogio Phoenix/Erlang una de las tecnologias mas eficientes (originalmente diseñada por Ericcson y actualmente la base de Whatsapp) para permitir una escalibidad muy eficiente.
 14. ¿Cuenta con distintos niveles de usuarios?
+a. SI, por el momento manejamos Derechohabiente, Proveedor de Salud y Administrador. Nuestra aplicacion esta diseñada para permitir mas conforme vayan surgiendo.
 15. ¿El sistema puede generar reportes, estadisticas y graficas?
+A. SI, tenemos reportes y graficas sobre su salud en el cliente del derechohabiente, y en el cliente de prestador de salud y administrador presentamos la informacion con graficas y estadistica de la poblacion y permitimos la generacion de reportes de los mismos.
 16. ¿El sistempa permite conectarse y complementar los sistemas existentes del IMSS?
+a. La arquitectura de la solucion permite que en su momento se conecten y complementen sistemas existentes del IMSS, sin embargo por el momemento no contamos con informacion de otros que debamos integrar. 
 17. ¿Se administra eficientemente la capacidad de integracion con otros sistemas?
+a. El panel de adminsitracion permite aislar rapidamente las diversas interfacez tanto con motor de riesgo, bases de datos como con diversos clientes, tanto para dar mantemiento como en caso de alguna emergencia. 
 18. ¿Se tiene identificado el nivel de soporte tecnologico requerido?
+a. SI, El nivel de soporte tecnologico esperado dependera de las diversas politicas de infraestructura de la Direccion de Inovacion y Desarrollo Tecnologico del IMSS, sin embargo nuestra aplicacion esta diseñada para correr en una nube de terceros, una nube hibrida (hosted cloud) como servidores fijos, es recomendable en la nube ya que permitimos la rapida sustitucion y escalabilidad de instancias virtuales.
 19. ¿Cual es el plan de mantenimiento de servidores / nube?
+a. Para mantenimiento, nuestra aplicacion puede distribuirse a traves de varias instancias y permite sustituir de manera "hot-swap" para evitar downtime durante la ventanas de mantienimiento. 
