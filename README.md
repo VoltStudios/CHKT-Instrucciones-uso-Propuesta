@@ -13,8 +13,8 @@ Propuesta #CHKTENLÍNEA de Volt Studios
 > 1. Video de 2 mins demostrando prototipo funcional (Web de Enfermera, Web de Admin, Web de Paciente y Móvil nativo para Paciente) [Dar clic aqui.](https://www.youtube.com/watch?v=aH565Iw4LT8)
 > 
 > 2. Prototipo  con Front End (UX/UI) Web responsivo para Pacientes conectado a Backend Funcional en Phoenix. 
-> Repositorio en ([Dar clic aquí](https://github.com/VoltStudios/chkt-online-web.git)) y URL en ([Dar clic aquí](http://chkt-en-linea.herokuapp.com)) lista de usuarios para probar aquí ([Dar clic aquí](https://github.com/VoltStudios/chktDOCS/wiki)) . 
-> También tenemos un prototipo preliminar de UX y de UI de la enfermera conectado al Backend con funcionalidad limitada. El usuario es B y la contraseña B ([Dar clic aquí](http://chkt-en-linea-enfermera.herokuapp.com/)) y el repositorio esta aquí.
+> Repositorio Front End en ([Dar clic aquí](https://github.com/VoltStudios/chkt-online-web.git)) Back End en (Dar clic aqui) y URL en ([Dar clic aquí](http://chkt-en-linea.herokuapp.com)) lista de usuarios para probar aquí ([Dar clic aquí](https://github.com/VoltStudios/chktDOCS/wiki)) . 
+> También tenemos un prototipo preliminar de UX y de UI de la enfermera conectado al Backend con funcionalidad limitada. El usuario es B y la contraseña B ([Dar clic aquí](http://chkt-en-linea-enfermera.herokuapp.com/)), el repositorio esta aquí (Dar clic aquí) y usuario para prueba aquí ([Dar clic aquí](https://github.com/VoltStudios/CHKT-Instrucciones-uso-Propuesta/wiki/Usuario-de-Prototipo-Enfermera)).
 > 
 > 3. Prototipo de Front End (UX/UI)  simulado para los diversos usuarios. URL para probar Paciente ([Dar clic aquí](https://www.justinmind.com/usernote/tests/18753261/18761580/18761582/index.html)), Enfermera ([Dar clic aquí](https://www.justinmind.com/usernote/tests/18753261/18761555/18761557/index.html)),  y Administrador ([Dar clic aquí](https://www.justinmind.com/usernote/tests/18753261/18761590/18761592/index.html)).
 > 
