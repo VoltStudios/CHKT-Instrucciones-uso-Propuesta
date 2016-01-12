@@ -22,7 +22,7 @@ Propuesta #CHKTENLÍNEA de Volt Studios
 > 5. Guía de Usuario para el Proyecto Potencial Completo [Dar clic aqui](https://docs.google.com/presentation/d/1a1siGEb6Fi7Z3EmXYLWmPvw70YvGAGmeWLeaElCFSNY/edit?pref=2&pli=1)> 
 > 6. Plan de Trabajo Detallado [URL]
 > 
-> 7. Diagrama de GANTT del Plan de Trabajo ([Dar clic aquí para version interactiva](http://instagantt.com/shared/56947d16235916da3300004d)) o (Dar clic aquí para PDF)
+> 7. Diagrama de GANTT del Plan de Trabajo ([Dar clic aquí para version interactiva](Current%20Snapshot%20direct%20link%20%20http://instagantt.com/shared/56948a876dc26e6034000016)) o (Dar clic aquí para PDF)
 > 
 > 8. Documento de Especificaciones de Sistema [LINK]
 > 
