@@ -26,7 +26,7 @@ Propuesta #CHKTENLÍNEA de Volt Studios
 > 
 > 8. Documento de Especificaciones de Sistema [LINK]
 > 
-> 9. Declaración Anual 2014 [LINK] y Acuse  [LINK]
+> 9. Acuse y Declaración Anual 2014 ([Dar clic aquí](https://drive.google.com/file/d/0B3yPM7kdR0ckcFVYcVpmWi03S2c/view?pref=2&pli=1)) 
 
 
 **Preguntas Frecuentes:**
