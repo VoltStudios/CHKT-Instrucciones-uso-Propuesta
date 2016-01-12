@@ -27,7 +27,7 @@ Preguntas Frecuentes
 1. ¿Cuales son las propuestas unicas de valor de nuestra aplicacion?
 - Un diseño de la interfaz del usuario y de la experiencia de los mismos de excelencia, basado en las mejores practicas de UX y de UI enfocado a canalizar a derechohabientes a reducir su riesgo y eficientizar el proceso de comunicacion con proveedores de salud.
 - Estrategia tecnologica basada en Phoenix/Erlang, lo cual permitira una gran escabilidad de usuarios sin representar una gran inversion potencial en infraestrutura de servidores para el IMSS
-- 
+- Permitimos al derechohabiente darle seguimiento con recordatorios a los medicamentos que debe tomar
 
 2. ¿Como se comunica la solucion al motor de riesgo?
 2. ¿Como se conecta la solucion con las bases de datos del Instituto (Big Data)
